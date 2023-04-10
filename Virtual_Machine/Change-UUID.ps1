@@ -11,7 +11,7 @@
   None
 .NOTES
   Version:        0.1
-  Author:         Eduard R. Gilete
+  Author:         Eduard Roig G.
   Creation Date:  09/14/2022
   Purpose/Change: Changes the UUID of a VMWare virtual machine before checking that it is stopped.
 .EXAMPLE
